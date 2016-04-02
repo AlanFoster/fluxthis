@@ -1,6 +1,5 @@
 node_modules/*
-test/build/*
-build/*
+test/build/
 tmp
 .idea
 server.pid
